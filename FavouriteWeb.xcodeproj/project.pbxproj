@@ -24,7 +24,7 @@
 		027FE7EF1D9D8CDB00B7191A /* AddViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddViewController.swift; sourceTree = "<group>"; };
 		027FE7F31D9E8C1600B7191A /* HotUrlDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HotUrlDelegate.swift; sourceTree = "<group>"; };
 		027FE7F51D9E996A00B7191A /* UrlViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UrlViewController.swift; sourceTree = "<group>"; };
-		02B3455C1D9D3E01007A804E /* HotUrls.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HotUrls.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		02B3455C1D9D3E01007A804E /* FavouriteWeb.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FavouriteWeb.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		02B3455F1D9D3E01007A804E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		02B345611D9D3E01007A804E /* UrlListTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UrlListTableViewController.swift; sourceTree = "<group>"; };
 		02B345641D9D3E01007A804E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -50,7 +50,7 @@
 		02B345531D9D3E01007A804E = {
 			isa = PBXGroup;
 			children = (
-				02B3455E1D9D3E01007A804E /* HotUrls */,
+				02B3455E1D9D3E01007A804E /* FavouriteWeb */,
 				02B3455D1D9D3E01007A804E /* Products */,
 			);
 			sourceTree = "<group>";
@@ -58,12 +58,12 @@
 		02B3455D1D9D3E01007A804E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				02B3455C1D9D3E01007A804E /* HotUrls.app */,
+				02B3455C1D9D3E01007A804E /* FavouriteWeb.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		02B3455E1D9D3E01007A804E /* HotUrls */ = {
+		02B3455E1D9D3E01007A804E /* FavouriteWeb */ = {
 			isa = PBXGroup;
 			children = (
 				02B345741D9D3E56007A804E /* resources */,
@@ -71,6 +71,7 @@
 				02B345721D9D3E48007A804E /* model */,
 				02B345711D9D3E40007A804E /* controller */,
 			);
+			name = FavouriteWeb;
 			path = HotUrls;
 			sourceTree = "<group>";
 		};
@@ -117,9 +118,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		02B3455B1D9D3E01007A804E /* HotUrls */ = {
+		02B3455B1D9D3E01007A804E /* FavouriteWeb */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 02B3456E1D9D3E01007A804E /* Build configuration list for PBXNativeTarget "HotUrls" */;
+			buildConfigurationList = 02B3456E1D9D3E01007A804E /* Build configuration list for PBXNativeTarget "FavouriteWeb" */;
 			buildPhases = (
 				02B345581D9D3E01007A804E /* Sources */,
 				02B345591D9D3E01007A804E /* Frameworks */,
@@ -129,9 +130,9 @@
 			);
 			dependencies = (
 			);
-			name = HotUrls;
+			name = FavouriteWeb;
 			productName = HotUrls;
-			productReference = 02B3455C1D9D3E01007A804E /* HotUrls.app */;
+			productReference = 02B3455C1D9D3E01007A804E /* FavouriteWeb.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -151,7 +152,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 02B345571D9D3E01007A804E /* Build configuration list for PBXProject "HotUrls" */;
+			buildConfigurationList = 02B345571D9D3E01007A804E /* Build configuration list for PBXProject "FavouriteWeb" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -164,7 +165,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				02B3455B1D9D3E01007A804E /* HotUrls */,
+				02B3455B1D9D3E01007A804E /* FavouriteWeb */,
 			);
 		};
 /* End PBXProject section */
@@ -342,7 +343,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		02B345571D9D3E01007A804E /* Build configuration list for PBXProject "HotUrls" */ = {
+		02B345571D9D3E01007A804E /* Build configuration list for PBXProject "FavouriteWeb" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				02B3456C1D9D3E01007A804E /* Debug */,
@@ -351,7 +352,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		02B3456E1D9D3E01007A804E /* Build configuration list for PBXNativeTarget "HotUrls" */ = {
+		02B3456E1D9D3E01007A804E /* Build configuration list for PBXNativeTarget "FavouriteWeb" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				02B3456F1D9D3E01007A804E /* Debug */,

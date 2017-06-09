@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "02B3455B1D9D3E01007A804E"
-               BuildableName = "HotUrls.app"
-               BlueprintName = "HotUrls"
-               ReferencedContainer = "container:HotUrls.xcodeproj">
+               BuildableName = "FavouriteWeb.app"
+               BlueprintName = "FavouriteWeb"
+               ReferencedContainer = "container:FavouriteWeb.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "02B3455B1D9D3E01007A804E"
-            BuildableName = "HotUrls.app"
-            BlueprintName = "HotUrls"
-            ReferencedContainer = "container:HotUrls.xcodeproj">
+            BuildableName = "FavouriteWeb.app"
+            BlueprintName = "FavouriteWeb"
+            ReferencedContainer = "container:FavouriteWeb.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "02B3455B1D9D3E01007A804E"
-            BuildableName = "HotUrls.app"
-            BlueprintName = "HotUrls"
-            ReferencedContainer = "container:HotUrls.xcodeproj">
+            BuildableName = "FavouriteWeb.app"
+            BlueprintName = "FavouriteWeb"
+            ReferencedContainer = "container:FavouriteWeb.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "02B3455B1D9D3E01007A804E"
-            BuildableName = "HotUrls.app"
-            BlueprintName = "HotUrls"
-            ReferencedContainer = "container:HotUrls.xcodeproj">
+            BuildableName = "FavouriteWeb.app"
+            BlueprintName = "FavouriteWeb"
+            ReferencedContainer = "container:FavouriteWeb.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
